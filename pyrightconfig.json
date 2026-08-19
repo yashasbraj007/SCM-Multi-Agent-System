@@ -1,0 +1,6 @@
+{
+  "extraPaths": [
+    "./agents/agent1_logistics",
+    "./agents/agent2_recovery"
+  ]
+}
