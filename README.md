@@ -3,7 +3,7 @@
 A locally hosted, LLM-driven multi-agent system for supply chain disruption
 management in raw agricultural products (wheat, barley, rice, corn, soybeans).
 
-Case Studies 2 (K-2379-3629) — Group 2
+Case Studies 2 
 
 ## What This Does
 
