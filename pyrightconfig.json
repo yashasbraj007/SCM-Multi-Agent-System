@@ -1,6 +1,7 @@
 {
   "extraPaths": [
     "./agents/agent1_logistics",
-    "./agents/agent2_recovery"
+    "./agents/agent2_recovery",
+    "./llm_layer"
   ]
 }
